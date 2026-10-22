@@ -1,0 +1,8 @@
+{
+  "name": "The Reign of the Moon",
+  "description": "Red social y de citas románticas para artistas. Exhibe pintura, poesía, música y escultura, encuentra almas gemelas con radar lunar, explora el mapa de artistas, y conecta en el salón público.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

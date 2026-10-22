@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Reign of the Moon</string>
+    <string name="tagline">Donde el arte y el romance se encuentran bajo la luna</string>
+    <string name="rules_title">Reglas de The Reign of the Moon</string>
+    <string name="rules_public_chat">No mostrar contenido sexual dentro de los chats públicos.</string>
+    <string name="rules_private_chat">El contenido sexual/íntimo es exclusivo para chats privados con mutuo consentimiento.</string>
+    <string name="rules_real_photos">Obligatorio fotos reales. Cualquier foto generada con IA será eliminada de inmediato.</string>
+    <string name="rules_art_respect">Respeto y autoría de toda expresión artística (pintura, literatura, música, escultura).</string>
+</resources>
